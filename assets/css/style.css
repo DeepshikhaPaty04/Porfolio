@@ -51,7 +51,7 @@ body.dark{
     --title-color: hsl(var(--hue-color), 8%, 5%);
 --text-color: hsl(var(--hue-color), 8%, 15%);
 --body-color: #FBF6E9;
---box-color: #EADBC8;
+--box-color: #f5e0b6;
 --alt-box-color: hsl(var(--hue-color), 14%, 10%);
 --scroll-bar-color: hsl(var(--hue-color), 12%, 62%);
 --scroll-thumb-color: hsl(var(--hue-color), 12%, 74%);
@@ -312,7 +312,7 @@ input {
 }
 
 .home__social-link{
-    font-size: 1.08rem;
+    font-size: 1.48rem;
     color: var(--text-color);
     transition: 0.4s;
 }
